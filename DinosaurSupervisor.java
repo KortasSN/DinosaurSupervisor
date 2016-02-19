@@ -11,6 +11,6 @@ public class DinosaurSupervisor {
                 t_rex.roar();
                 velociraptor.roar();
                 diplodocus.roar();
-                another.roar();
+
     }
 }
